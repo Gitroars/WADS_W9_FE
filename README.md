@@ -1,6 +1,8 @@
 # Getting Started with Create React App
+This is a forum assignment for Web Application at Week 9 for the frontend part </br>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
+Please run ```npm start``` at the folder.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

@@ -21,8 +21,9 @@ function Dashboard() {
       alert("An error occured while fetching user data");
     }
   };
-  handleLogout = () => {
+  const handleLogout = () => {
     Cookies.remove("sessionId");
+    auth.signOut();
   };
 
   useEffect(() => {
